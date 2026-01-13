@@ -5,8 +5,7 @@ It uses Retrieval-Augmented Generation (RAG) to answer questions from your own d
 
 ## Live Demo
 
-(Will add after deployment)  
-`https://<your-app>.streamlit.app`
+'https://ai-pdf-rag-bot-dozzkpuhmijxp4lnmgtnvz.streamlit.app/'
 
 ## Features
 
